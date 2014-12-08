@@ -1,0 +1,97 @@
+.cursors {
+  cursor: default;
+}
+
+.intro-header .post-heading {
+  margin: 10em auto 6em;
+  color: white;
+}
+
+.post-heading h1 {
+  font-family: 'Philosopher', sans-serif;
+  font-size: 42px;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+
+.post-heading h2 {
+  font-family: 'Philosopher', sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 35px;
+  letter-spacing: 1px;
+}
+
+.meta {
+  font-family: "Lora",'Times New Roman',serif;
+  font-size: 15px;
+  font-weight: 400;
+  opacity: .9;
+  font-style: italic;
+  letter-spacing: 1px;
+}
+
+.meta a{
+  font-family: "Lora",'Times New Roman',serif;
+  font-size: 18px;
+  font-weight: 400;
+  font-style: italic;
+  letter-spacing: 1px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.meta a:hover{
+  text-decoration: underline;
+}
+
+.p-text-art p, blockquote {
+  font-family: "Helvetica Neue", "Helvetica" sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 1px;
+}
+
+.p-text-art blockquote {
+  color: #111;
+  font-style: italic;
+  margin: 24px auto;
+}
+
+.p-text-art h1, h2, h3 {
+  font-family: "Helvetica Neue", "Helvetica" sans-serif;
+  font-size: 29px;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+.p-text-art, h2 {
+  margin-top: 40px;
+  margin-bottom: 15px;
+}
+
+
+@font-face {
+  font-family: 'Days';
+  src: url('fonts/days.otf');
+}
+
+.p-text-art p:first-child {
+  margin-top: 50px;
+}
+
+.img-responsive{
+  margin: 30px auto 0;
+  width: 650px;
+}
+
+.caption {
+  text-align: center;
+  font-size: 14px;
+  padding: 10px;
+  font-style: italic;
+  margin-bottom: 20px;
+  display: block;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
