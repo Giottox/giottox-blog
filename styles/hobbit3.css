@@ -14,11 +14,6 @@
   letter-spacing: 1px;
 }
 
-@font-face {
-  font-family: Lane; /* Гарнитура шрифта */
-  src: url(../fonts/Lane.ttf); /* Для остальных браузеров */
-}
-
 .post-heading h2 {
   font-family: 'Philosopher', sans-serif;
   font-size: 20px;
@@ -79,6 +74,11 @@
 @font-face {
   font-family: 'Days';
   src: url('fonts/days.otf');
+}
+
+@font-face {
+  font-family: Lane; /* Гарнитура шрифта */
+  src: url(../fonts/Lane.ttf); /* Для остальных браузеров */
 }
 
 .p-text-art p:first-child {
