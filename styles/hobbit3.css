@@ -46,7 +46,7 @@
 }
 
 .p-text-art p, blockquote {
-  font-family: "Lane" sans-serif;
+  font-family: "Helvetica" "Helvetica Neue" sans-serif;
   font-size: 16px;
   letter-spacing: 1px;
 }
@@ -58,7 +58,7 @@
 }
 
 .p-text-art h1, h2, h3 {
-  font-family: "Lane" sans-serif;
+  font-family: "Helvetica" "Helvetica Neue" sans-serif;
   font-size: 29px;
   font-weight: 700;
   letter-spacing: 1px;
