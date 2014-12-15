@@ -14,6 +14,11 @@
   letter-spacing: 1px;
 }
 
+@font-face {
+  font-family: Lane; /* Гарнитура шрифта */
+  src: url(../fonts/Lane.ttf); /* Для остальных браузеров */
+}
+
 .post-heading h2 {
   font-family: 'Philosopher', sans-serif;
   font-size: 20px;
@@ -46,7 +51,7 @@
 }
 
 .p-text-art p, blockquote {
-  font-family: "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "Lane" sans-serif;
   font-size: 16px;
   font-weight: 400;
   letter-spacing: 1px;
